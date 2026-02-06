@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Advanced DevOps & Systems Engineering**
+- 🌱 I’m currently  ** DevOps & Systems Engineering**
 - 🤝 I’m looking to collaborate on **DevOps & Cloud Projects**
 - 👨‍💻 All of my projects are available at:  
   🔗 **https://setegnabebe.github.io/Portfolio/**
